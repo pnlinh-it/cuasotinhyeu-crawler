@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pnlinh.facebook.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cuasotinhyeu-crawler.iml" filepath="$PROJECT_DIR$/.idea/cuasotinhyeu-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cuasotinhyeu-crawler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cuasotinhyeu-crawler_main.iml" group="cuasotinhyeu-crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cuasotinhyeu-crawler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cuasotinhyeu-crawler_test.iml" group="cuasotinhyeu-crawler" />
+    </modules>
+  </component>
+</project>

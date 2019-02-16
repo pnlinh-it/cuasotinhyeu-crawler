@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.pnlinh'
+version '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    dependencies {
+        implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+        implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+        implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+    }
+}
